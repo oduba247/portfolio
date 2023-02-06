@@ -40,10 +40,10 @@ const Contact = () => {
                                 <a href="https://www.linkedin.com/in/oduba-ayotomiwa-emmanuel-aa076b251" target="blank">
                                     <FaLinkedin /> Linkedin
                                 </a>
-                                <a href="https://instagram.com/_tomly47_?igshid=YmMyMTA2M2Y=" target="blank">
+                                <a href="https://instagram.com/ayotomi47_?igshid=YmMyMTA2M2Y=" target="blank">
                                     <FaInstagram /> Instagram
                                 </a>
-                                <a href="https://github.com/oduba247 /" target="blank">
+                                <a href="https://github.com/oduba247" target="blank">
                                     <FaGithub /> Github
                                 </a>
                                 <a href="https://twitter.com/tomly_47?s=11&t=jFKHVi0nXN8WqH_W-CrSig" target="blank">
