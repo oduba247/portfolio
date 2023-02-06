@@ -1,0 +1,105 @@
+    .project{
+        margin-top: 6rem;
+    }
+    @import url(https://fonts.googleapis.com/css?family=Dancing+Script|Ubuntu|Roboto:400,700);
+
+    /*html, body{
+    height: 100%;
+    }*/
+
+    body{
+    font-family: "Ubuntu", sans-serif;
+    }
+
+    a.anchor {
+        display: block;
+        position: relative;
+        top: -50px;
+        visibility: hidden;
+    }
+
+    .navbar-brand{
+    font-family: "Dancing Script", cursive;
+    font-weight: 700;
+    font-size: 2em;
+    }
+
+    .navbar li{
+    text-transform: capitalize;
+    }
+
+
+
+    .thumbnail{
+    position: relative;
+    border-radius: 15px;
+    }
+
+    .thumbnail img{
+        min-height: 250px;
+        min-width: 300px;
+        border-radius: 15px;
+
+    }
+
+    .thumbnail-hover{
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    height: 99%;
+    width: 99%;
+    opacity: 0;
+    transition:2s;
+    }
+
+        .thumbnail-hover:hover{
+        top: 2px;
+        left: 2px;
+        position: absolute;
+        height: 99%;
+        width: 99%;
+        background-color: rgba(100, 98, 98, 0.8);
+        margin: 0 auto;
+        transition:.5s;
+        opacity: 1;
+        padding-top: 30%;
+        border-radius: 15px;
+    }
+
+    .thumbnail-hover i{
+        text-decoration: none;
+        color: white;
+    }
+
+    .row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+    }
+
+    /* #about{
+    background-image: url(https://raw.githubusercontent.com/hash004/freecodecamp/master/portfolioPage/images/about.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 50px;
+    color: #fff;
+    } */
+
+
+
+
+    hr{
+    width: 25%;
+    }
+    img{
+        width: 350px;
+        height: 300px;
+    }
+    .cont1{
+        place-content: center;
+        margin: auto;
+        align-items: center;
+        display: flex;
+    }

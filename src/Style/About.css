@@ -1,0 +1,41 @@
+    .about_cont2{
+        margin-top: 5rem;
+    }
+    
+    .Tommyimg img{
+        height: 200px;
+        width: 150px;
+        object-fit: cover;
+        border-radius: 70%;
+        --_p: 100%;
+        z-index: 500;
+        animation: swing;
+        animation-duration: 10s;
+        animation-delay: 5s;
+        filter: grayscale(100%);
+    }
+    .about_cont2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: auto;
+        text-align: center;
+        justify-content: center;
+    }
+    .About_text1 p {
+        font-size: 20px;
+        padding: 2rem;
+        font-family: 'Nanum Myeongjo', serif;
+    }
+    h1{
+        font-family: 'Ubuntu Condensed', sans-serif;
+        font-style: italic;
+        font-weight: bolder;
+        /* color: rgba(6, 6, 37, 0.281); */
+    }
+.frontend{
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(223, 204, 242);
+    font-family: 'Times New Roman', Times, serif;
+}

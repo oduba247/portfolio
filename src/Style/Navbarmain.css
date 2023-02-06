@@ -1,0 +1,30 @@
+    .name-cont {
+        border: solid 3px rgb(49, 207, 49);
+        width: fit-content;
+        font-family: 'Pacifico', cursive;
+        font-weight: bolder;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 3rem;
+    }
+    .name-cont span {
+        color: rgb(49, 207, 49);
+        font-weight: lighter;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .web-cont {
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        font-size: larger;
+        font-weight: 600;
+    }
+    .nav-header {
+        border: solid 3px rgb(49, 207, 49);
+        margin: auto;
+    
+    }
+    .nav{
+        margin-top: 15rem;
+
+    }
+    

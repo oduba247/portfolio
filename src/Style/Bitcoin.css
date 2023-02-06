@@ -1,0 +1,58 @@
+    .bitcoin {
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        grid-template-columns: repeat(6, 1fr);
+        border: 2px solid;
+    
+    }
+    .name {
+        font-family: sans-serif;
+        border-right: 1px solid ;
+        list-style-type: none;
+        lighting-color: #9d9d9d;
+        padding: 5px;
+        /* border-left: solid #292929; */
+    }
+    .crypto {
+        width: 100%;
+    }
+    .arrowdown{
+        color: red;
+        font-size: 30px;
+        font-weight: bolder;
+    }
+    .arrowup{
+        color: rgb(63, 178, 63);
+        font-weight: bolder;
+        font-size: 30px;
+    }
+    .backgroundsec {
+        background-color: #f7f6f9;
+    }
+
+    /* //////////Media  */
+    @media only screen and (max-width : 480PX) {
+        .container3 {
+            display: flex;
+        flex-direction: column;
+            color: #ffffff;
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+        .bitcoin {
+            display: flex;
+            flex-direction: column;
+            
+            text-align: center;
+            grid-template-columns: repeat(6, 1fr); 
+        }
+        .google-con {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .name{
+            border-right: none ;
+        }
+    }
