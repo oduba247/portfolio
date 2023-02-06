@@ -21,7 +21,7 @@ const Project = () => {
             <div className="row">
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://odubaayotomiwagoddid.netlify.app/" target="_blank">
+                  <a href="https://odubaayotomiwagoddid.netlify.app/">
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
@@ -35,7 +35,7 @@ const Project = () => {
               </div>
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://tommybootstrap247.netlify.app/" target="_blank">
+                  <a href="https://tommybootstrap247.netlify.app/" >
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
@@ -49,7 +49,7 @@ const Project = () => {
               </div>
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://courageous-moxie-511ad2.netlify.app/" target="_blank">
+                  <a href="https://courageous-moxie-511ad2.netlify.app/" >
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
@@ -65,7 +65,7 @@ const Project = () => {
             <div className="row">
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://jazzy-stroopwafel-752cba.netlify.app/" target="_blank">
+                  <a href="https://jazzy-stroopwafel-752cba.netlify.app/">
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
@@ -79,7 +79,7 @@ const Project = () => {
               </div>
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://luxury-sopapillas-5786c7.netlify.app/" target="_blank">
+                  <a href="https://luxury-sopapillas-5786c7.netlify.app/" >
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
@@ -93,7 +93,7 @@ const Project = () => {
               </div>
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="#" target="_blank">
+                  <a href="https://odubaayotomiwagoddid.netlify.app/">
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
