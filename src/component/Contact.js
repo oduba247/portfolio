@@ -51,7 +51,7 @@ const Contact = () => {
                                 </a>
                             </div>
                             <div className='madewithlove'>
-                                <p className='madewith'>Made  by<a href="https://instagram.com/thisisadelakun?igshid=YmMyMTA2M2Y=" target="blank">@TommyCloud</a></p>
+                                <p className='madewith'>Made  by<a href="https://www.linkedin.com/in/oduba-ayotomiwa-emmanuel-aa076b251" target="blank">@TommyCloud</a></p>
                             </div>
                         </div>
                     </div>
