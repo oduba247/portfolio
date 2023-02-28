@@ -4,9 +4,9 @@ import '../Style/Projects.css'
 import Tradee from "../Asset/TradExpress.png"
 import Naturee from "../Asset/nature webstite - Google Chrome 2023-01-17 21.35.2.png"
 import Cal from "../Asset/Calculator.png"
-import Count from "../Asset/counter App -.png"
+import Daddy from "../Asset/daddys joke.png"
 import Music from "../Asset/Music.png"
-import Sunny from "../Asset/SunnySide _ Landing - Google Chrome 2023-01-17 21..png"
+import Darkand from "../Asset/darkand.png"
 
 const Project = () => {
   return (
@@ -65,15 +65,15 @@ const Project = () => {
             <div className="row">
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://jazzy-stroopwafel-752cba.netlify.app/">
+                  <a href="https://fabulous-medovik-020c79.netlify.app/">
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
-                    <img src={Count} alt="" />
+                    <img src={Daddy} alt="" />
                   </a>
                   <div className="caption">
-                    <h3>Counter App</h3>
-                    <p>Made with Pure JavaScript</p>
+                    <h3>Daddy's Joke</h3>
+                    <p>This is website that generate  random jokes</p>
                   </div>
                 </div>
               </div>
@@ -93,15 +93,15 @@ const Project = () => {
               </div>
               <div className="col-lg-4">
                 <div className="thumbnail">
-                  <a href="https://odubaayotomiwagoddid.netlify.app/">
+                  <a href="https://famous-truffle-50f43c.netlify.app">
                     <div className="thumbnail-hover text-center">
                       <i className="fa fa-eye fa-4x"></i>
                     </div>
-                    <img src={Sunny} alt="" />
+                    <img src={Darkand} alt="" />
                   </a>
                   <div className="caption">
-                    <h3>SunnySide</h3>
-                    <p>Just the Landing Page</p>
+                    <h3>Dark and White Calculator</h3>
+                    <p>a Dark and white calculator</p>
                   </div>
                 </div>
               </div>
